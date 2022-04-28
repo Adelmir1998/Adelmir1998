@@ -30,4 +30,6 @@ Algumas tecnologias que são desenvolvidas aqui:
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Adelmir1998&style=flat-square&color=blue" alt="" align="center"/>
+<div>
+<img src="https://komarev.com/ghpvc/?username=Adelmir1998&style=flat-square&color=blue" alt=""/>
+</div>
